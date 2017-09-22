@@ -1,0 +1,2 @@
+nodemon anna.js
+pause

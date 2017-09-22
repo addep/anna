@@ -1,49 +1,46 @@
-const Discord = require("discord.js");
-const client = new Discord.Client();
-const fs = require("fs");
-const heroicon = require("./emoji.json");
-
 const config = require("./config.json");
+const Discord = require("discord.js");
+const fs = require("fs");
 
-client.on("ready", () => {
-  console.log("Ready");
-});
+const bot = new Discord.Client({disableEveryone: true});
+bot.commands = new Discord.Collection();
+const prefix = config.prefix;
 
-client.on("message", (message) => {
-  if (!message.content.startsWith(config.prefix) || message.author.bot) return;
 
-  if (message.content.startsWith(config.prefix + "ping")) {
-    message.channel.send("pong!");
-  } else
-  if (message.content.startsWith(config.prefix + "foo")) {
-    message.channel.send("bar!");
-  }
-});
-
-client.on("message", (message) => {
-  if(message.content.startsWith(config.prefix + "prefix")) {
-    let newPrefix = message.content.split(" ").slice(1, 2)[0];
-    config.prefix = newPrefix;
-    fs.writeFile("./config.json", JSON.stringify(config), (err) => console.error);
-    message.channel.send('New prefix: ' +config.prefix);
-  };
-});
-
-client.on("message", (message) => {
-  if(message.content.startsWith(config.prefix + "embed")) {
-    message.channel.send({embed: {
-      color: 1235644,
-      title: "A terrifying combination",
-      description: "<:batrider:357884527844261888> Bat Ryder \n<:kunkka:357884916563705857> Kunkka",
-    }})
+fs.readdir("./commands/", (err, files) => {
+  if(err) console.error(err);
+  let jsfiles = files.filter(f => f.split(".").pop() === "js");
+  if(jsfiles.length <= 0) {
+    console.log("Kommandomappen er tom.");
+    return;
   }
 
-});
-client.on("message", (message) => {
-  if (message.content === "emojis") {
-    const emojiList = message.guild.emojis.map(e=>e.toString()).join(" ");
-    message.channel.send(emojiList);
-  }
+  console.log(`Henter ${jsfiles.length} kommandoer...`);
+
+  jsfiles.forEach((f, i) => {
+    let props = require(`./commands/${f}`);
+    console.log(`${i + 1}: ${f} lastet`)
+    bot.commands.set(props.help.name, props);
+  });
 });
 
-client.login(config.token);
+bot.on("ready", () => {
+  console.log("alt klart");
+  console.log(bot.commands);
+});
+
+bot.on("message", async message => {
+  if(message.author.bot) return;
+  if(message.channel.type === "dm") return;
+
+  let messageArray = message.content.split(/\s+/g);
+  let command = messageArray[0];
+  let args = messageArray.slice(1);
+
+  if(!command.startsWith(prefix)) return;
+
+  let cmd = bot.commands.get(command.slice(prefix.length));
+  if(cmd) cmd.run(bot, message, args);
+});
+
+bot.login(config.token);
