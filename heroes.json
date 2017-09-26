@@ -1,0 +1,1243 @@
+{
+  "abaddon"          :
+
+      {
+      	"keyword"    :"abaddon",
+        "name"       :"Abaddon",
+        "emoji"      :"<:abaddon:357884464015343616>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+  "alchemist"        :
+
+      {
+      	"keyword"    :"alchemist",
+        "name"       :"Alchemist",
+        "emoji"      :"<:alchemist:357884482365292545>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"ancientapparition":
+
+      {
+      	"keyword"    :"ancientapparition",
+        "name"       :"Ancient Apparition",
+        "emoji"      :"<:ancientapparition:357884491064147969>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"antimage"         :
+
+      {
+      	"keyword"    :"antimage",
+        "name"       :"Anti-Mage",
+        "emoji"      :"<:antimage:357884499960528896>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"arcwarden"        :
+
+      {
+      	"keyword"    :"arcwarden",
+        "name"       :"Arc Warden",
+        "emoji"      :"<:arcwarden:357884506960560131>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"axe"              :
+
+      {
+      	"keyword"    :"axe",
+        "name"       :"Axe",
+        "emoji"      :"<:axe:357884514489466880>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"bane"             :
+
+      {
+      	"keyword"    :"bane",
+        "name"       :"Bane",
+        "emoji"      :"<:bane:357884521779298304>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"batrider"         :
+
+      {
+      	"keyword"    :"batrider",
+        "name"       :"Batrider",
+        "emoji"      :"<:batrider:357884527844261888>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"beastmaster"      :
+
+      {
+      	"keyword"    :"beastmaster",
+        "name"       :"Beastmaster",
+        "emoji"      :"<:beastmaster:357884540573712394>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"bloodseeker"      :
+
+      {
+      	"keyword"    :"bloodseeker",
+        "name"       :"Bloodseeker",
+        "emoji"      :"<:bloodseeker:357884548941479946>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"bountyhunter"     :
+
+      {
+      	"keyword"    :"bountyhunter",
+        "name"       :"Bounty Hunter",
+        "emoji"      :"<:bountyhunter:357884589571702785>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"brewmaster"       :
+
+      {
+      	"keyword"    :"brewmaster",
+        "name"       :"Brewmaster",
+        "emoji"      :"<:brewmaster:357884635859910656>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"bristleback"      :
+
+      {
+      	"keyword"    :"bristleback",
+        "name"       :"Bristleback",
+        "emoji"      :"<:bristleback:357884670702125056>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"broodmother"      :
+
+      {
+      	"keyword"    :"broodmother",
+        "name"       :"Broodmother",
+        "emoji"      :"<:broodmother:357884678423707668>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"centaur"          :
+
+      {
+      	"keyword"    :"centaur",
+        "name"       :"Centaur Warrunner",
+        "emoji"      :"<:centaur:357884684656705537>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"chaosknight"      :
+
+      {
+      	"keyword"    :"chaosknight",
+        "name"       :"Chaos Knight",
+        "emoji"      :"<:chaosknight:357884692709769226>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"chen"             :
+
+      {
+      	"keyword"    :"chen",
+        "name"       :"Chen",
+        "emoji"      :"<:chen:357884699340963842>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"clinkz"           :
+
+      {
+      	"keyword"    :"clinkz",
+        "name"       :"Clinkz",
+        "emoji"      :"<:clinkz:357884709159829514>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"crystalmaiden"    :
+
+      {
+      	"keyword"    :"crystalmaiden",
+        "name"       :"Crystal Maiden",
+        "emoji"      :"<:crystalmaiden:357884724016054282>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"darkseer"         :
+
+      {
+      	"keyword"    :"darkseer",
+        "name"       :"Dark Seer",
+        "emoji"      :"<:darkseer:357884733230940166>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"dazzle"           :
+
+      {
+      	"keyword"    :"dazzle",
+        "name"       :"Dazzle",
+        "emoji"      :"<:dazzle:357884739555950592>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"deathprophet"     :
+
+      {
+      	"keyword"    :"deathprophet",
+        "name"       :"Death Prophet",
+        "emoji"      :"<:deathprophet:357884748179177472>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"disruptor"        :
+
+      {
+      	"keyword"    :"disruptor",
+        "name"       :"Disruptor",
+        "emoji"      :"<:disruptor:357884757692121088>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"doom"             :
+
+      {
+      	"keyword"    :"doom",
+        "name"       :"Doom",
+        "emoji"      :"<:doom:357884764730163200>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"dragonknight"     :
+
+      {
+      	"keyword"    :"dragonknight",
+        "name"       :"ragon Knight",
+        "emoji"      :"<:dragonknight:357884780194299904>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"drow"             :
+
+      {
+      	"keyword"    :"drow",
+        "name"       :"Drow Ranger",
+        "emoji"      :"<:drow:357884789904375809>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"earthshaker"      :
+
+      {
+      	"keyword"    :"earthshaker",
+        "name"       :"Earthshaker",
+        "emoji"      :"<:earthshaker:357884816110387201>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"earthspirit"      :
+
+      {
+      	"keyword"    :"earthspirit",
+        "name"       :"Earth Spirit",
+        "emoji"      :"<:earthspirit:357884802520580107>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"eldertitan"       :
+
+      {
+      	"keyword"    :"eldertitan",
+        "name"       :"Elder Titan",
+        "emoji"      :"<:eldertitan:357884826843348993>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"emberspirit"      :
+
+      {
+      	"keyword"    :"emberspirit",
+        "name"       :"Ember Spirit",
+        "emoji"      :"<:emberspirit:357884835081093121>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"enchantress"      :
+
+      {
+      	"keyword"    :"enchantress",
+        "name"       :"Enchantress",
+        "emoji"      :"<:enchantress:357884842752475148>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"enigma"           :
+
+      {
+      	"keyword"    :"enigma",
+        "name"       :"Enigma",
+        "emoji"      :"<:enigma:357884849643716609>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"facelessvoid"     :
+
+      {
+      	"keyword"    :"facelessvoid",
+        "name"       :"Faceless Void",
+        "emoji"      :"<:facelessvoid:357884859198472192>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"furion"           :
+
+      {
+      	"keyword"    :"furion",
+        "name"       :"Nature's Prophet",
+        "emoji"      :"<:furion:357884866244902912>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"gyrocopter"       :
+
+      {
+      	"keyword"    :"gyrocopter",
+        "name"       :"Gyrocopter",
+        "emoji"      :"<:gyrocopter:357884872582365184>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"huskar"           :
+
+      {
+      	"keyword"    :"huskar",
+        "name"       :"Huskar",
+        "emoji"      :"<:huskar:357884878882209793>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"invoker"          :
+
+      {
+      	"keyword"    :"invoker",
+        "name"       :"Invoker",
+        "emoji"      :"<:invoker:357884886402465802>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"jakiro"           :
+
+      {
+      	"keyword"    :"jakiro",
+        "name"       :"Jakiro",
+        "emoji"      :"<:jakiro:357884895164366859>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"juggernaut"       :
+
+      {
+      	"keyword"    :"juggernaut",
+        "name"       :"Juggernaut",
+        "emoji"      :"<:juggernaut:357884904182120449>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"keeperofthelight" :
+
+      {
+      	"keyword"    :"keeperofthelight",
+        "name"       :"Keeper of the Light",
+        "emoji"      :"<:keeperofthelight:357884910716977153>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"kunkka"           :
+
+      {
+      	"keyword"    :"kunkka",
+        "name"       :"Kunkka",
+        "emoji"      :"<:kunkka:357884916563705857>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"lanaya"           :
+
+      {
+      	"keyword"    :"lanaya",
+        "name"       :"Templar Assassin",
+        "emoji"      :"<:lanaya:357884923543027713>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"legioncommander"  :
+
+      {
+      	"keyword"    :"legioncommander",
+        "name"       :"Legion Commander",
+        "emoji"      :"<:legioncommander:357884951728881667>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"leshrac"          :
+
+      {
+      	"keyword"    :"leshrac",
+        "name"       :"Leshrac",
+        "emoji"      :"<:leshrac:357884967835140097>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"lich"             :
+
+      {
+      	"keyword"    :"lich",
+        "name"       :"Lich",
+        "emoji"      :"<:lich:357884981961293845>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"lifestealer"      :
+
+      {
+      	"keyword"    :"lifestealer",
+        "name"       :"Lifestealer",
+        "emoji"      :"<:lifestealer:357884990471798785>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"lina"             :
+
+      {
+      	"keyword"    :"lina",
+        "name"       :"Lina",
+        "emoji"      :"<:lina:357884999950663680>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"lion"             :
+
+      {
+      	"keyword"    :"lion",
+        "name"       :"Lion",
+        "emoji"      :"<:lion:357885016467832842>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"lonedruid"        :
+
+      {
+      	"keyword"    :"lonedruid",
+        "name"       :"Lone Druid",
+        "emoji"      :"<:lonedruid:357885618778538004>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"luna"             :
+
+      {
+      	"keyword"    :"luna",
+        "name"       :"Luna",
+        "emoji"      :"<:luna:357885655390486539>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"lycan"            :
+
+      {
+      	"keyword"    :"lycan",
+        "name"       :"Lycan",
+        "emoji"      :"<:lycan:357885667436396555>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"magnataur"        :
+
+      {
+      	"keyword"    :"magnataur",
+        "name"       :"Magnus",
+        "emoji"      :"<:magnataur:357885674470506496>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"medusa"           :
+
+      {
+      	"keyword"    :"medusa",
+        "name"       :"Medusa",
+        "emoji"      :"<:medusa:357885681546297355>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"meepo"            :
+
+      {
+      	"keyword"    :"meepo",
+        "name"       :"Meepo",
+        "emoji"      :"<:meepo:357885691620884490>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"mirana"           :
+
+      {
+      	"keyword"    :"mirana",
+        "name"       :"Mirana",
+        "emoji"      :"<:mirana:357885700487774209>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"monkeyking"       :
+
+      {
+      	"keyword"    :"monkeyking",
+        "name"       :"Monkey King",
+        "emoji"      :"<:monkeyking:357885709610123267>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"morphling"        :
+
+      {
+      	"keyword"    :"morphling",
+        "name"       :"Morphling",
+        "emoji"      :"<:morphling:357885718783197197>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"nagasiren"        :
+
+      {
+      	"keyword"    :"nagasiren",
+        "name"       :"Naga Siren",
+        "emoji"      :"<:nagasiren:357885728694206464>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"necrolyte"        :
+
+      {
+      	"keyword"    :"necrolyte",
+        "name"       :"Necrophos",
+        "emoji"      :"<:necrolyte:357885736831418389>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"nevermore"        :
+
+      {
+      	"keyword"    :"nevermore",
+        "name"       :"Shadow Fiend",
+        "emoji"      :"<:nevermore:357885742741061642>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"nightstalker"     :
+
+      {
+      	"keyword"    :"nightstalker",
+        "name"       :"Night Stalker",
+        "emoji"      :"<:nightstalker:357885752266457091>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"nyxassassin"      :
+
+      {
+      	"keyword"    :"nyxassassin",
+        "name"       :"Nyx Assassin",
+        "emoji"      :"<:nyxassassin:357885758725423115>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"obsidiandestroyer":
+
+      {
+      	"keyword"    :"obsidiandestroyer",
+        "name"       :"Outworld Devourer",
+        "emoji"      :"<:obsidiandestroyer:357885769064382468>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"ogremagi"         :
+
+      {
+      	"keyword"    :"ogremagi",
+        "name"       :"Ogre Magi",
+        "emoji"      :"<:ogremagi:357885896520892426>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"omniknight"       :
+
+      {
+      	"keyword"    :"omniknight",
+        "name"       :"Omniknight",
+        "emoji"      :"<:omniknight:357885903303344129>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"oracle"           :
+
+      {
+      	"keyword"    :"oracle",
+        "name"       :"Oracle",
+        "emoji"      :"<:oracle:357885909745795072>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"phantomassassin"  :
+
+      {
+      	"keyword"    :"phantomassassin",
+        "name"       :"Phantom Assassin",
+        "emoji"      :"<:phantomassassin:357885917060530178>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"phantomlancer"    :
+
+      {
+      	"keyword"    :"phantomlancer",
+        "name"       :"Phantom Lancer",
+        "emoji"      :"<:phantomlancer:357885926405308418>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"phoenix"          :
+
+      {
+      	"keyword"    :"phoenix",
+        "name"       :"Phoenix",
+        "emoji"      :"<:phoenix:357885934580269056>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"puck"             :
+
+      {
+      	"keyword"    :"puck",
+        "name"       :"Puck",
+        "emoji"      :"<:puck:357885943656742913>",
+        "portrait"   :"<:puck_sb:360983574419341313>",
+        "attribute"  :""
+      },
+
+
+	"pudge"            :
+
+      {
+      	"keyword"    :"pudge",
+        "name"       :"Pudge",
+        "emoji"      :"<:pudge:357885951663669268>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"pugna"            :
+
+      {
+      	"keyword"    :"pugna",
+        "name"       :"Pugna",
+        "emoji"      :"<:pugna:357885959863402498>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"queenofpain"      :
+
+      {
+      	"keyword"    :"queenofpain",
+        "name"       :"Queen of Pain",
+        "emoji"      :"<:queenofpain:357885967346040833>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"clockwerk"        :
+
+      {
+      	"keyword"    :"clockwerk",
+        "name"       :"Clockwerk",
+        "emoji"      :"<:clockwerk:357885975298441216>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"razor"            :
+
+      {
+      	"keyword"    :"razor",
+        "name"       :"Razor",
+        "emoji"      :"<:razor:357885987709386752>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"riki"             :
+
+      {
+      	"keyword"    :"riki",
+        "name"       :"Riki",
+        "emoji"      :"<:riki:357885997914128384>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"rubick"           :
+
+      {
+      	"keyword"    :"rubick",
+        "name"       :"Rubick",
+        "emoji"      :"<:rubick:357886027958059013>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"sandking"         :
+
+      {
+      	"keyword"    :"sandking",
+        "name"       :"Sand King",
+        "emoji"      :"<:sandking:357886042457767939>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"shadowdemon"      :
+
+      {
+      	"keyword"    :"shadowdemon",
+        "name"       :"Shadow Demon",
+        "emoji"      :"<:shadowdemon:357886059297898506>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"shadowshaman"     :
+
+      {
+      	"keyword"    :"shadowshaman",
+        "name"       :"Shadow Shaman",
+        "emoji"      :"<:shadowshaman:357886070790029313>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"shredder"         :
+
+      {
+      	"keyword"    :"shredder",
+        "name"       :"Timbersaw",
+        "emoji"      :"<:shredder:357886077857693696>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"silencer"         :
+
+      {
+      	"keyword"    :"silencer",
+        "name"       :"Silencer",
+        "emoji"      :"<:silencer:357886095914172417>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"skeletonking"     :
+
+      {
+      	"keyword"    :"skeletonking",
+        "name"       :"Wraith King",
+        "emoji"      :"<:skeletonking:357886108492890113>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"skywrathmage"     :
+
+      {
+      	"keyword"    :"skywrathmage",
+        "name"       :"Skywrath Mage",
+        "emoji"      :"<:skywrathmage:357886115643916289>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"slardar"          :
+
+      {
+      	"keyword"    :"slardar",
+        "name"       :"Slardar",
+        "emoji"      :"<:slardar:357886124422856705>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"slark"            :
+
+      {
+      	"keyword"    :"slark",
+        "name"       :"Slark",
+        "emoji"      :"<:slark:357886134543450113>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"sniper"           :
+
+      {
+      	"keyword"    :"sniper",
+        "name"       :"Sniper",
+        "emoji"      :"<:sniper:357886142722473984>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"spectre"          :
+
+      {
+      	"keyword"    :"spectre",
+        "name"       :"Spectre",
+        "emoji"      :"<:spectre:357886153401303040>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"spiritbreaker"    :
+
+      {
+      	"keyword"    :"spiritbreaker",
+        "name"       :"Spirit Breaker",
+        "emoji"      :"<:spiritbreaker:357886171801714690>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"stormspirit"      :
+
+      {
+      	"keyword"    :"stormspirit",
+        "name"       :"Storm Spirit",
+        "emoji"      :"<:stormspirit:357886181004017664>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"sven"             :
+
+      {
+      	"keyword"    :"sven",
+        "name"       :"Sven",
+        "emoji"      :"<:sven:357886188348112896>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"techies"          :
+
+      {
+      	"keyword"    :"techies",
+        "name"       :"Techies",
+        "emoji"      :"<:techies:357886197047099413>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"terrorblade"      :
+
+      {
+      	"keyword"    :"terrorblade",
+        "name"       :"Terrorblade",
+        "emoji"      :"<:terrorblade:357886260137689109>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"tidehunter"       :
+
+      {
+      	"keyword"    :"tidehunter",
+        "name"       :"Tidehunter",
+        "emoji"      :"<:tidehunter:357886289317724161>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"tinker"           :
+
+      {
+      	"keyword"    :"tinker",
+        "name"       :"Tinker",
+        "emoji"      :"<:tinker:357886299782512643>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"tiny"             :
+
+      {
+      	"keyword"    :"tiny",
+        "name"       :"Tiny",
+        "emoji"      :"<:tiny:357886308732895242>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"treant"           :
+
+      {
+      	"keyword"    :"treant",
+        "name"       :"Treant Protector",
+        "emoji"      :"<:treant:357886325560573962>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"troll"            :
+
+      {
+      	"keyword"    :"troll",
+        "name"       :"Troll Warlord",
+        "emoji"      :"<:trollwarlord:357886546038358018>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"tusk"             :
+
+      {
+      	"keyword"    :"tusk",
+        "name"       :"Tusk",
+        "emoji"      :"<:tusk:357886557740597259>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"underlord"        :
+
+      {
+      	"keyword"    :"underlord",
+        "name"       :"Underlord",
+        "emoji"      :"<:underlord:357884472299094016>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"undying"          :
+
+      {
+      	"keyword"    :"undying",
+        "name"       :"Undying",
+        "emoji"      :"<:undying:357886565588140052>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"ursa"             :
+
+      {
+      	"keyword"    :"ursa",
+        "name"       :"Ursa",
+        "emoji"      :"<:ursa:357886572189843467>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"vengefulspirit"   :
+
+      {
+      	"keyword"    :"vengefulspirit",
+        "name"       :"Vengeful Spirit",
+        "emoji"      :"<:vengefulspirit:357886590124556298>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"venomancer"       :
+
+      {
+      	"keyword"    :"venomancer",
+        "name"       :"Venomancer",
+        "emoji"      :"<:venomancer:357886599398162436>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"viper"            :
+
+      {
+      	"keyword"    :"viper",
+        "name"       :"Viper",
+        "emoji"      :"<:viper:357886608269115392>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"visage"           :
+
+      {
+      	"keyword"    :"visage",
+        "name"       :"Visage",
+        "emoji"      :"<:visage:357886615793696768>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"warlock"          :
+
+      {
+      	"keyword"    :"warlock",
+        "name"       :"Warlock",
+        "emoji"      :"<:warlock:357886622165106688>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"weaver"           :
+
+      {
+      	"keyword"    :"weaver",
+        "name"       :"Weaver",
+        "emoji"      :"<:weaver:357886629723111426>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"windrunner"       :
+
+      {
+      	"keyword"    :"windrunner",
+        "name"       :"Windranger",
+        "emoji"      :"<:windrunner:357886635947327492>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"winterwyvern"     :
+
+      {
+      	"keyword"    :"winterwyvern",
+        "name"       :"Winter Wyvern",
+        "emoji"      :"<:winterwyvern:357886646273966080>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"wisp"             :
+
+      {
+      	"keyword"    :"wisp",
+        "name"       :"Io",
+        "emoji"      :"<:wisp:357886661994217473>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"witchdoctor"      :
+
+      {
+      	"keyword"    :"witchdoctor",
+        "name"       :"Witch Doctor",
+        "emoji"      :"<:witchdoctor:357886669304758296>",
+        "portrait"   :"",
+        "attribute"  :""
+      },
+
+
+	"zeus"             :
+
+      {
+      	"keyword"    :"zeus",
+        "name"       :"Zeus",
+        "emoji"      :"<:zeus:357886675998998531>",
+        "portrait"   :"",
+        "attribute"  :""
+      }
+
+}
