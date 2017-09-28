@@ -1,12 +1,11 @@
 const config = require("./config.json");
 const Discord = require("discord.js");
 const fs = require("fs");
-
 const bot = new Discord.Client({disableEveryone: true});
-bot.commands = new Discord.Collection();
 const prefix = config.prefix;
+bot.commands = new Discord.Collection();
 
-
+// Read the commands folder and look for .js files
 fs.readdir("./commands/", (err, files) => {
   if(err) console.error(err);
   let jsfiles = files.filter(f => f.split(".").pop() === "js");
@@ -14,9 +13,8 @@ fs.readdir("./commands/", (err, files) => {
     console.log("Kommandomappen er tom.");
     return;
   }
-
+  // Loads commands
   console.log(`Henter ${jsfiles.length} kommandoer...`);
-
   jsfiles.forEach((f, i) => {
     let props = require(`./commands/${f}`);
     console.log(`${i + 1}: ${f} lastet`)
@@ -40,6 +38,10 @@ bot.on("message", async message => {
   if(!command.startsWith(prefix)) return;
   let cmd = bot.commands.get(command.slice(prefix.length));
   if(cmd) cmd.run(bot, message, args);
+});
+
+bot.on("messageReaction", async reaction => {
+  console.log("reaction");
 });
 
 bot.login(config.token);

@@ -3,8 +3,6 @@ const heroes = require("../heroes.json");
 
 module.exports.run = async (bot, message, args) => {
 
-  let title = "Heroes";
-  let lineup = "";
   let msg = "";
   let codeBlock = "```";
   let herocount = Object.keys(heroes).length;
